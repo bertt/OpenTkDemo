@@ -33,6 +33,8 @@ namespace Example
                     }
                 };
 
+
+
                 game.RenderFrame += (sender, e) =>
                 {
                     // render graphics
